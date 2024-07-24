@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849907390496",
+    "project_id": "fir-authentication2-54203",
+    "storage_bucket": "fir-authentication2-54203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849907390496:android:5bcb3e4d98ede848ef4445",
+        "android_client_info": {
+          "package_name": "lk.rush.appfirebaseauth20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMCnqWfS57p5DZLjqy7dxZ1WYH2owWJxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
